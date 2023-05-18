@@ -1,4 +1,4 @@
-<a href="linkedin.com/in/cxbxtx">
+<a href="linkedin.com/in/cxbxt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a/>
   
