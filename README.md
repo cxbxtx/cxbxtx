@@ -8,10 +8,10 @@ I see my mission as an IT professional in business development by improving the 
 I’m currently working as a BI-developer for X5 Group and keen on Machine Learning. Recently I've successfully completed the Data Science course at Yandex.Practicum.
 
 **Data Science:**\
-Python, Tableau, QlikSense, Pandas, Numpy, Matplotlib, TensorFlow, Keras, SciPy, Scikit-learn, Seaborn
+Python, Tableau, QlikSense, Pandas, TensorFlow, Keras, PySpark, SciPy, Scikit-learn, Numpy, Matplotlib, Seaborn
 
 **Databases:**\
-PostgreSQL, MySQL
+PostgreSQL, Greenplum
 
 <!--
 **cxbxtx/cxbxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
