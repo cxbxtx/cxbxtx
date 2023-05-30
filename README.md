@@ -4,7 +4,7 @@
   
 ### Hi there! My name is Ivan👋
 
-I see my mission as an IT professional in business development by improving the quality of management decisions based on data.\
+I see my mission as an IT professional in business development by improving the quality of management decisions based on data analysis.\
 I’m currently working as a BI-developer for X5 Group and keen on Machine Learning. Recently I've successfully completed the Data Science course at Yandex.Practicum.
 
 **Data Science:**\
