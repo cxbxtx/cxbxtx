@@ -11,7 +11,7 @@ I’m currently working as a BI-developer for X5 Group and keen on Machine Learn
 Python, Tableau, QlikSense, Pandas, TensorFlow, Keras, PySpark, SciPy, Scikit-learn, Numpy, Matplotlib, Seaborn
 
 **Databases:**\
-PostgreSQL, Greenplum
+PostgreSQL, Greenplum 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
