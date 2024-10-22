@@ -5,7 +5,7 @@
 ### Hi there! My name is Ivan👋
 
 I see my mission as an IT professional in business development by improving the quality of management decisions based on data analysis.\
-I’m currently working as a BI-developer for X5 Group. Recently I've successfully completed the Data Science course at Yandex.Practicum.
+I’m currently working as a BI-developer for X5 Group<!-- and keen on Data Science-->. Recently I've successfully completed the Data Science course at Yandex.Practicum.
 
 **BI / Data Science:**\
 Python, Tableau, Apache Superset, Pandas, TensorFlow, Keras, PySpark, SciPy, Scikit-learn, Numpy, Matplotlib, Seaborn
